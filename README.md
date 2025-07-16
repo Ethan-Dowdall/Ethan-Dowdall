@@ -6,7 +6,7 @@
     </picture>
 
 
-- 🔭 I’m currently working on [a squat analysis tool](linkPending)
+- 🔭 I’m currently working on [a squat analysis tool](linkPending) for AWRC Sheffield on my T-Level work placement
 
 - 🌱 I’m currently learning **ReactJS and other complimentary tools for app development**
 
