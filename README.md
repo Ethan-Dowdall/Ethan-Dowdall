@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ethan (ECD)</h1>
 <h3 align="center">A giant nerd who ought to learn some more</h3>
-
+![Header](./your-header-image-name.png)
 - 🔭 I’m currently working on [a squat analysis tool](linkPending)
 
 - 🌱 I’m currently learning **ReactJS and other complimentary tools for app development**
