@@ -6,9 +6,9 @@
     </picture>
 
 
-- 🔭 I’m currently working on [a squat analysis tool](linkPending) for AWRC Sheffield on my T-Level work placement
+- 🔭 I’m have momst recently completed development of a Squat Analysis Tool for AWRC Sheffield
 
-- 🌱 I’m currently learning **ReactJS and other complimentary tools for app development**
+- 🌱 I’m currently learning **ReactJS and web app development in general**
 
 - 👯 I’m also developing [a mobile mp3 player](linkPending)
 
